@@ -1,0 +1,14 @@
+#stm32cubeide 관련 파일
+/.metadata/
+/*.log
+/*.bak
+*.settings/
+
+#빌드 폴더
+/Debug/
+/Release/
+
+#IDE 관련 디렉토리
+/.project
+/.cproject
+/.settings/
